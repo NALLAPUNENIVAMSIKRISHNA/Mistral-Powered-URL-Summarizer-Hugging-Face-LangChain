@@ -1,5 +1,7 @@
 # Mistral-Powered-URL-Summarizer-Hugging-Face-LangChain
 
+Demo video link :- https://drive.google.com/file/d/1AlbBE-nE42CxrpFm68qLyxJFhhPbGgsW/view?usp=sharing
+
 This Streamlit application allows you to summarize content from YouTube videos or website URLs using LangChain and the Hugging Face Inference API, specifically the Mistral 7B Instruct model.
 
 ## Features
